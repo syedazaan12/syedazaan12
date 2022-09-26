@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Syed Azaan  @syedazaan12
 - 👀 I’m currently working into Fornt-End Development | CMS Development | Graphic Designing    
-- 🌱 I’m currently learning game development 
--     In CMS Development tool I am used wordpress, shoptify, wix.com and in programming language used Html, Css, Bootstrap 5.
+- 🌱 I’m currently learning Game Development 
+-     In CMS Development tool I am used wordpress, shoptify, wix.com 
+-     In programming language used Html, Css, Bootstrap 5.
 -     In graphic designing tool I am used photoshop, figma.   
 - 📫 You can reach me from: 
 - 
